@@ -31,7 +31,7 @@ function Footer() {
         <div>
           <h2 className="font-semibold mb-3">Contact</h2>
           <p>📍 Bangalore</p>
-          <p>📞 +91 9876543210</p>
+          <p>📞 +91 1234567890</p>
         </div>
 
       </div>
