@@ -3,6 +3,8 @@
 ![Foodies Banner](./public/screenshots/Home.png)
 
 **Foodies** is a responsive React.js restaurant landing page that showcases a modern, interactive menu and cart functionality. It’s designed to provide users with a smooth browsing and ordering experience.
+ 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue)](https://shraddha-react-foodies-app.netlify.app/)
 
 ---
 
@@ -46,6 +48,7 @@
 ![Contact](public/screenshots/Contact.png)
 
 ---
+
 ## 📂 Folder Structure
 
 foodies/
