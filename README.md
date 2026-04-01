@@ -1,6 +1,6 @@
 # Foodies - Restaurant Landing Page
 
-![Foodies Banner](./assets/images/img1.png) <!-- Replace with your hero image path -->
+![Foodies Banner](./public/screenshots/Home.png)
 
 **Foodies** is a responsive React.js restaurant landing page that showcases a modern, interactive menu and cart functionality. It’s designed to provide users with a smooth browsing and ordering experience.
 
